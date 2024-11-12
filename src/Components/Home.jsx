@@ -22,7 +22,7 @@ const Home = () => {
                         Home is where your story begins.
                          We’re here to help you find the perfect place to write it.
                         </p>
-                        <a href='mailto:enestholdingscogmail.com'><button className='secondary-button fade-in'>
+                        <a href='mailto:enestholdings@gmail.com'><button className='secondary-button fade-in'>
                             Get Started <FiArrowRight/>
                         </button></a>
                       </div>

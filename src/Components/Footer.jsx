@@ -20,7 +20,7 @@ const Footer = () => {
             <div className="footer-icons">
               <a href="https://www.facebook.com/share/j2q3Mmhcj4Uq5gTX/?mibextid=LQQJ4d"><FaFacebookF /></a>
               <a href='https://www.linkedin.com/in/edward-mallawarachchii-94b8a572?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'><SiLinkedin /></a>
-              <a href='mailto:enestholdingscogmail.com'><BiLogoGmail /></a>
+              <a href='mailto:enestholdings@gmail.com'><BiLogoGmail /></a>
                
              </div>
              </div>

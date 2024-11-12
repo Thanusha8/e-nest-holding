@@ -464,6 +464,10 @@ nav {
     text-align: center;
     max-width: 80%;
   }
+
+  .about-section-container {
+    margin: 13% 1%;
+  }
   .about-section-text-container {
     justify-content: center;
     align-items: center;
@@ -475,9 +479,7 @@ nav {
     padding: 0.4rem 1rem;
     cursor: pointer;
   }
-  .about-section-container {
-    margin: 10% 1%;
-  }
+
   .about-buttons-container {
     justify-content: center;
     flex-direction: column;

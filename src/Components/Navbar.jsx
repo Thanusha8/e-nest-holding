@@ -58,7 +58,7 @@ const Navbar = () => {
             <a href='#projects'>Projects</a>
             <a href='#Contact'>Contact</a>
  
-           <a href='mailto:enestholdingscogmail.com'> <button className='primary-button'>Send Inquiry</button> </a>
+           <a href='mailto:enestholdings@gmail.com'> <button className='primary-button'>Send Inquiry</button> </a>
         </div>
 
         <div className='navbar-menu-container'>

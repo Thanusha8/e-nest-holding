@@ -7,7 +7,7 @@ const Contact = () => {
         <h1 className="primary-heading">Let Us Help You</h1>
 
         <div className="contact-form-container">
-        <a href='mailto:enestholdingscogmail.com'> <button className='primary-button'>Send Inquiry</button> </a>
+        <a href='mailto:enestholdings@gmail.com'> <button className='primary-button'>Send Inquiry</button> </a>
         </div>
       
     </div>
