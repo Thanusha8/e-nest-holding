@@ -14,8 +14,8 @@ const Home = () => {
 
                <div className='home-image-selection'>
                    <img src={BannerImage2}></img>
-                      <div className='overlay-text-conetnt'>
-                        <h1 className='home-heading fade-in'>
+                      <div className='overlay-text-conetnt '>
+                        <h1 className='home-heading fade-in '>
                         Welcome Home
                         </h1>
                         <p className='home-text fade-in'>

@@ -90,6 +90,7 @@ nav {
 .home-image-selection{
   position: relative;
   width: 100%;
+ 
 }
 
 .home-image-selection img {
@@ -109,6 +110,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  
 }
 @keyframes fadeIn {
   from {
@@ -429,12 +431,28 @@ nav {
     width: 100%;
   }
 
+  .home-heading{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 3%;
+  }
+
+  .home-text{
+    text-align: center;
+    max-width: 70%;
+    font-size: 17px;
+    margin: 0.5rem 0rem;
+  }
+
+  
+
   .overlay-text-conetnt{
     margin-left: 0%;
   }
+  
   .primary-heading {
     text-align: center;
-    max-width: 90%;
+    max-width: 80%;
   }
   .primary-text {
     text-align: center;
@@ -447,12 +465,12 @@ nav {
     margin-left: 0;
   }
   .secondary-button {
-    font-size: 1rem;
-    padding: 0.8rem 2rem;
+    font-size: 0.8rem;
+    padding: 0.4rem 1rem;
     cursor: pointer;
   }
   .about-section-container {
-    margin-top: 5rem !important;
+    margin: 10% 10%;
   }
   .about-buttons-container {
     justify-content: center;
@@ -474,7 +492,8 @@ nav {
     margin-top: 4rem;
   }
   .work-section-wrapper {
-    margin-top: 5rem !important;
+    
+    margin: 10% 10%;
     
     animation: appear linear;
     animation-timeline: view();
@@ -520,7 +539,7 @@ nav {
     margin: 1rem 0rem;
     align-items: center;
   }
-  .App {
-    max-width: 100vw;
-  }
+  /* .App {
+    max-width: 80vw;
+  } */
 }
