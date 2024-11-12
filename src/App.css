@@ -73,7 +73,7 @@ nav {
   background-color: #e48f0f;
 }
 .navbar-menu-container svg {
-  font-size: 1.5rem;
+  font-size: 3rem;
   cursor: pointer;
 }
 
@@ -401,11 +401,12 @@ nav {
 }
 @media (max-width: 800px) {
   .nav-logo-container {
-    max-width: 140px;
+    max-width: 180px;
     
   }
   .navbar-links-container {
     display: none;
+    
   }
   .navbar-menu-container {
     display: flex;
@@ -426,9 +427,8 @@ nav {
 
   .home-image-selection img {
     width: 100%;
-    height: 550px;
+    height: 545px;
     display: block;
-  
   }
 
 
