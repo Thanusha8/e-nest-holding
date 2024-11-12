@@ -423,6 +423,24 @@ nav {
   }
   .about-section-container {
     flex-direction: column;
+    margin: 17% 1%;
+  }
+
+  .about-section-text-container {
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 0;
+  }
+
+  .about-buttons-container {
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .about-section-image-container {
+    margin-right: 0rem !important;
+    margin-top: 4rem;
   }
 
   .home-image-selection img {
@@ -465,25 +483,12 @@ nav {
     max-width: 80%;
   }
 
-  .about-section-container {
-    margin: 13% 1%;
-  }
-  .about-section-text-container {
-    justify-content: center;
-    align-items: center;
-    margin-top: 1rem;
-    margin-left: 0;
-  }
   .secondary-button {
     font-size: 1.5rem;
     padding: 0.4rem 1rem;
     cursor: pointer;
   }
 
-  .about-buttons-container {
-    justify-content: center;
-    flex-direction: column;
-  }
   .primary-subheading {
     text-align: center;
   }
@@ -495,10 +500,7 @@ nav {
   .watch-video-button svg {
     margin-right: 0.5rem !important;
   }
-  .about-section-image-container {
-    margin-right: 0rem !important;
-    margin-top: 4rem;
-  }
+  
   .work-section-wrapper {
     
     margin: 10% 4%;
